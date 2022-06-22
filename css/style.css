@@ -1,0 +1,75 @@
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn a{
+	text-decoration: none;
+	background-color: #071A1F;
+	padding: 8px;
+	font-size: 20px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: #1f7187;
+	background-color: #030d0f;
+}
+
+nav.menu-nav ul li.nintoz{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.nintoz a{
+	text-decoration: none;
+	background-color: #071A1F;
+	padding-left: 500px;
+	font-size: 20px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 450px;
+}
+
+p.welcome{
+	color: #A9EAFE;
+}
+
+p.info{
+	color: #A9EAFE;
+}
+
+h1.head{
+	color: #26829C;
+	font-size: 80px;
+}
+
+body{
+	background: url("https://getwallpapers.com/wallpaper/full/8/4/4/346964.jpg"); no-repeat;
+	background-size: 100%;
+}
+
+a{
+	color: #0000FF;
+}
+
+li{
+	color: #26829C;
+}
+
+p{
+	color: #26829C;
+}
+
+img.octone{
+	float: right;
+	list-style-type: none;
+	display: inline-block;
+}
+
+h2.one{
+	color: #A9EAFE;
+	font-size: 40px;
+	float: right;
+	padding-right: 350px;
+	padding-top: 100px;
+}
